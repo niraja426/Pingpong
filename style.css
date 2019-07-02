@@ -1,0 +1,22 @@
+#canvas{
+   display: block; 
+}
+
+#startBtn{
+    border: 5px solid tomato;
+    font-size: 40px;
+    position:absolute;
+    left:42%;
+    top:3%;
+    width:130px;
+}
+#restart{
+    border: 5px solid tomato;
+    font-size: 40px;
+    position:absolute;
+    left:42%;
+    top:3%;
+    width:130px;
+    display:none;
+
+}
